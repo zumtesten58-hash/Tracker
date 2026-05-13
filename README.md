@@ -5,4 +5,4 @@
 
 ## Visuals
 ![3D Model](./assets/3d_render.png)
-![Wiring Diagram](./assets/Circuit diagram.png)
+![Wiring Diagram](./assets/Circuitdiagram.png)
