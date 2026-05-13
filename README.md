@@ -1,7 +1,7 @@
 # Tracker
 
 ## Project description:
-This is a tracker for various objects, such as drones or kites. Within a radius of approximately eight kilometres, the GPS signal can be tracked, depending on line of sight and obstacles. You can then see the location and distance. The range is only around 8 kilometres under ideal conditions.
+This is a tracking device for various objects, such as drones or kites. The tracking device can transmit GPS position data over a distance of up to approximately 8 km, depending on line of sight and any obstacles. You can then see the location and distance. Under ideal conditions, the range is only around 8 kilometres.
 
 ## How it works:
 You plug a USB stick containing the entire firmware into the PC. Then you plug your own ESP32-C3 Super Mini into the PC and attach the tracker to the object you wish to track. The tracker automatically sends signals to the ESP connected to the PC via a LoRa module, and these are then displayed. Ideally, it is also displayed on a map: your own location and the location of the tracker. Various settings can also be adjusted via the PC, such as the power-saving mode. On the PC, you can see the altitude, temperature, air pressure, battery voltage and the current time via a BMP280 and an AHT20 module built into the board.
