@@ -1,1 +1,9 @@
+## BOM
 
+| Bauteil | Anzahl | Beschreibung | Link |
+| :--- | :--- | :--- | :--- |
+| ESP32-C3 SuperMini | 1 | Mikrocontroller (Gehirn) | [Link einfügen] |
+| DX-LR22 LoRa | 1 | Sendemodul | [Link einfügen] |
+| ATGM336H GPS | 1 | Positionserfassung | [Link einfügen] |
+| TP4056 USB-C | 1 | Lademodul | [Link einfügen] |
+| Widerstand 10k Ohm | 2 | Spannungsteiler für Akku | [Link einfügen] |
