@@ -1,0 +1,1 @@
+This isn’t the final version yet. Once I’ve ordered the parts and they’ve been delivered, the design will be revised, improved and adapted to the actual dimensions. The component dimensions are currently only estimates. As soon as I have the new files, I’ll update them here.
