@@ -12,11 +12,11 @@ My kite flew away recently because the string snapped. Now it’s lying somewher
 ## BOM:
 | Item | Quantity | Description | Link |
 | :--- | :--- | :--- | :--- |
-| ESP32-C3 SuperMini | 2 | Main Controller (1x Tracker, 1x Ground Station) | [AliExpress](https://de.aliexpress.com/item/1005008498196688.html) |
+| ESP32 C3 SuperMini | 2 | Main Controller (1x Tracker, 1x Ground Station) | [AliExpress](https://de.aliexpress.com/item/1005008498196688.html) |
 | TP4056 Module | 1 | LiPo Battery Charging Module | [AliExpress](https://de.aliexpress.com/item/1005012053702082.html) |
 | AHT20 + BMP280 | 1 | Temperature, Humidity & Pressure Sensor | [AliExpress](https://de.aliexpress.com/item/1005008735075401.html) |
 | GPS/BDS Module | 2 | ATGM336H Navigation Modules | [AliExpress](https://de.aliexpress.com/item/1005006420287202.html) |
-| DX-LR22-900T22D | 2 | LoRa Wireless Modules (868MHz/900MHz) | [AliExpress](https://de.aliexpress.com/item/1005011899716097.html) |
+| DX-LR22-900T22D KIT | 1 | LoRa Wireless Modules (868MHz/900MHz) | [AliExpress](https://de.aliexpress.com/item/1005011899716097.html) |
 | Battery 3.7V | 1 | 2000mAh LiPo Battery | [AliExpress](https://de.aliexpress.com/item/1005004402762404.html) |
 | 10k Ohm Resistor | 2 | Resistors for battery voltage divider | [AliExpress](https://de.aliexpress.com/item/1005003923602966.html) |
 
