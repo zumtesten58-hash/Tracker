@@ -10,15 +10,15 @@ You plug a USB stick containing the entire firmware into the PC. Then you plug y
 My kite flew away recently because the string snapped. Now it’s lying somewhere in the woods, high up in the trees. I haven’t been able to find it. If the kite had had a tracker, I would have been spared the whole search, because then I could have seen where it was in the software. I would simply have retrieved it. And a drone has flown away from me once before, too. It would have been handy if it had had a tracker as well, so that I could have located it.
 
 ## BOM:
-| Item | Quantity | Description | Link |
-| :--- | :--- | :--- | :--- |
-| ESP32 C3 SuperMini | 2 | Main Controller (1x Tracker, 1x Ground Station) | [AliExpress](https://de.aliexpress.com/item/1005008498196688.html) |
-| TP4056 Module | 1 | LiPo Battery Charging Module | [AliExpress](https://de.aliexpress.com/item/1005012053702082.html) |
-| AHT20 + BMP280 | 1 | Temperature, Humidity & Pressure Sensor | [AliExpress](https://de.aliexpress.com/item/1005008735075401.html) |
-| GPS/BDS Module | 2 | ATGM336H Navigation Modules | [AliExpress](https://de.aliexpress.com/item/1005006420287202.html) |
-| DX-LR22-900T22D KIT | 1 | LoRa Wireless Modules (868MHz/900MHz) | [AliExpress](https://de.aliexpress.com/item/1005011899716097.html) |
-| Battery 3.7V | 1 | 2000mAh LiPo Battery | [AliExpress](https://de.aliexpress.com/item/1005004402762404.html) |
-| 10k Ohm Resistor | 2 | Resistors for battery voltage divider | [AliExpress](https://de.aliexpress.com/item/1005003923602966.html) |
+| Item | Quantity | Description | Unit Price (€) | Total Price(€)| Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ESP32 C3 SuperMini | 2 | Main Controller (1x Tracker, 1x Ground Station) | 2.85 | 5.7 | [AliExpress](https://de.aliexpress.com/item/1005008498196688.html) |
+| TP4056 Module | 1 | LiPo Battery Charging Module | 1.23 | 1.23 |  [AliExpress](https://de.aliexpress.com/item/1005012053702082.html) |
+| AHT20 + BMP280 | 1 | Temperature, Humidity & Pressure Sensor | 1.57 | 1.57 | [AliExpress](https://de.aliexpress.com/item/1005008735075401.html) |
+| GPS/BDS Module | 2 | ATGM336H Navigation Modules | 4.96 | 9.92 | [AliExpress](https://de.aliexpress.com/item/1005006420287202.html) |
+| DX-LR22-900T22D KIT | 1 | LoRa Wireless Modules (868MHz/900MHz) | 6.22 | 12.49 | [AliExpress](https://de.aliexpress.com/item/1005011899716097.html) |
+| Battery 3.7V | 1 | 2000mAh LiPo Battery | 4.53 | 4.53 | [AliExpress](https://de.aliexpress.com/item/1005004402762404.html) |
+| 10k Ohm Resistor | 2 | Resistors for battery voltage divider | 0.52 | 0.52 | [AliExpress](https://de.aliexpress.com/item/1005003923602966.html) |
 
 ## Visuals
 ![3D Model](./assets/3d_render.png)
