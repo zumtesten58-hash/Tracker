@@ -1,8 +1,8 @@
 Item, Quantity, Unit Price (€), Total Price (€),  Link
 ESP32 C3 SuperMini ,2 ,2.85 ,5.7 ,https://de.aliexpress.com/item/1005008498196688.html
-TP4056 ,1 , https://de.aliexpress.com/item/1005012053702082.html
-AHT20 BMP280 ,1 ,https://de.aliexpress.com/item/1005008735075401.html
-GPS BDS ,2 ,https://de.aliexpress.com/item/1005006420287202.html
-DX-LR22-900T22D KIT ,1 , https://de.aliexpress.com/item/1005011899716097.html
-Battery 3.7V 2000mAh,1 ,https://de.aliexpress.com/item/1005004402762404.html
-10k Ohm Resistor, 2, https://de.aliexpress.com/item/1005003923602966.html
+TP4056 ,1 ,1.2 ,1.22 ,https://de.aliexpress.com/item/1005012053702082.html
+AHT20 BMP280 ,1 ,1.57 ,1.57 ,https://de.aliexpress.com/item/1005008735075401.html
+GPS BDS ,2 ,4.96 ,9.92 ,https://de.aliexpress.com/item/1005006420287202.html
+DX-LR22-900T22D KIT ,1 ,6.22 ,12.49 ,https://de.aliexpress.com/item/1005011899716097.html
+Battery 3.7V 2000mAh,1 ,4.53 ,4.53 ,https://de.aliexpress.com/item/1005004402762404.html
+10k Ohm Resistor, 2, 0.52, 0.52 ,https://de.aliexpress.com/item/1005003923602966.html
