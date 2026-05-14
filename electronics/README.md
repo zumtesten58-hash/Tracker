@@ -14,6 +14,7 @@
 | BMP280/AHT20 (SDA) | GPIO 8 |
 | Battery Voltage (with a voltage divider) | GPIO 0 |
 | Power | 3.3V / GND |
+| TP4056 out | 5V / GND |
 
 ### Ground Station
 | Component | ESP32-C3 Pin |
